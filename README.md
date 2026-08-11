@@ -1,103 +1,119 @@
-# Hi, I'm Joel 👋
+```text
+ ██████  ██    ██ ████████  █████   ██████  ███████ 
+██    ██ ██    ██    ██    ██   ██ ██       ██      
+██    ██ ██    ██    ██    ███████ ██   ███ █████   
+██    ██ ██    ██    ██    ██   ██ ██    ██ ██      
+ ██████   ██████     ██    ██   ██  ██████  ███████ 
 
-### Engineering Student · Builder · Open Source Enthusiast
+                    O U T A G E   L O S T
+```
 
-I'm an engineering student passionate about **technology, problem solving, and building things that actually work**.
+# OUTAGE LOST
 
-I enjoy learning how systems work from the ground up — from algorithms and software architecture to circuits, electronics, and robotics. For me, one of the most rewarding parts of engineering is taking an idea from a concept on paper and turning it into something I can **build, test, break, improve, and see working in the real world**.
+**Engineering Student · Independent Builder · Systems Enthusiast**
 
----
+I am an engineering student interested in understanding how things work and turning ideas into working systems.
 
-## 🧠 What I’m Interested In
+My interests span **software engineering, algorithms, autonomous learning, robotics, electronics, and system design**. I enjoy moving between abstraction and implementation — from understanding an algorithm to wiring a circuit, from designing an architecture to watching a physical system respond to it.
 
-* 🤖 **Robotics & automation**
-* 🧩 **Algorithms & problem solving**
-* 🔌 **Electronics & circuits**
-* 🧠 **Machine learning & autonomous learning**
-* 💻 **Software engineering**
-* ⚙️ **Systems & infrastructure**
-* 🔬 **Experimentation and technical research**
-* 🚀 **Building products from scratch**
+For me, the most interesting part of engineering is not simply writing code or designing a system.
 
-I'm particularly interested in areas where **software meets the physical world**, and where understanding the underlying system matters as much as making it work.
-
----
-
-## 🛠️ What I Build
-
-I spend most of my time experimenting with different ideas and technologies.
-
-Some projects are completely open source, while others are private projects that I'm building, testing, and developing independently.
-
-I enjoy working across the entire process:
-
-**Idea → Architecture → Implementation → Testing → Deployment → Iteration**
-
-Rather than focusing on a single technology, I prefer learning whatever is necessary to solve the problem in front of me.
+It is **making an idea become real.**
 
 ---
 
-## 🚀 Ferka Labs
+## FOCUS
 
-I'm currently building **[Ferka Labs](https://ferkalabs.lat/)** — an independent initiative focused on creating software, tools, and experimental products.
+```text
+SOFTWARE
+    Algorithms
+    Systems
+    Architecture
+    Automation
 
-It's also my personal space for turning ideas into real projects.
+INTELLIGENCE
+    Machine Learning
+    Autonomous Systems
+    Computational Problem Solving
 
-> **Build it. Break it. Understand it. Make it better.**
+HARDWARE
+    Robotics
+    Electronics
+    Circuits
+    Embedded Systems
+```
 
----
+I am particularly interested in projects where different disciplines meet.
 
-## 🌱 Currently Learning
-
-I'm continuously exploring new areas of engineering and computer science.
-
-My current interests include:
-
-* Advanced algorithms and data structures
-* Artificial intelligence and machine learning
-* Robotics and embedded systems
-* Electronics and circuit design
-* Distributed systems
-* Infrastructure and self-hosted technologies
-* Software architecture
-* Automation
-
-I'm especially interested in **learning by building**, because the fastest way for me to understand something is to actually try to make it work.
-
----
-
-## 📂 Open Source
-
-I have several **open-source projects** and experiments available here on GitHub.
-
-At the same time, a significant portion of what I build is private — including experiments, prototypes, infrastructure, and projects developed under Ferka Labs.
-
-So this profile only represents a **small part of what I'm currently building**.
+Software controlling hardware.
+Algorithms producing behavior.
+Circuits becoming systems.
+Ideas becoming prototypes.
 
 ---
 
-## ⚡ A Little More About Me
+## BUILDING
 
-* 🎓 Engineering student
-* 🧠 Curious about how things work under the hood
-* 🔧 I like building things more than just reading about them
-* 🤖 Fascinated by robotics and autonomous systems
-* 🔌 I enjoy working with electronics and circuits
-* 📚 Constantly learning something new
-* 🧪 I learn best through experimentation
-* 💡 Always working on another idea
+### Ferka Labs
+
+I am currently developing **Ferka Labs**, an independent initiative focused on building software, tools, and experimental products.
+
+It serves as a space where ideas can move beyond experimentation and become actual systems.
+
+**Research → Design → Build → Test → Iterate**
+
+Some of my work is open source. A considerable part of what I build is private, including prototypes, infrastructure, experiments, and products under development.
 
 ---
 
-## 📊 GitHub
+## APPROACH
+
+I prefer learning through implementation.
+
+Instead of limiting myself to a particular stack or specialization, I tend to explore whatever technologies are necessary to understand and solve a problem.
+
+I enjoy taking systems apart, understanding their foundations, rebuilding them, and finding better ways to make them work.
+
+> **Understand the system. Build the system. Improve the system.**
+
+---
+
+## CURRENTLY EXPLORING
+
+```text
+Algorithms & Data Structures
+Machine Learning
+Robotics
+Embedded Systems
+Electronics
+Distributed Systems
+Software Architecture
+Automation
+Infrastructure
+```
+
+---
+
+## OPEN SOURCE
+
+Most of my public work can be found throughout this profile.
+
+Open source is an important part of how I experiment, document ideas, and learn from other developers. At the same time, this profile does not represent everything I build — many of my current projects remain private.
+
+---
+
+## PRINCIPLE
+
+```text
+        BUILD THINGS
+        UNDERSTAND THEM
+        MAKE THEM WORK
+        THEN MAKE THEM BETTER
+```
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outage-lost&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outage-lost&layout=compact&hide_border=true" height="170" />
+  <sub>Engineering is the process of turning curiosity into something that works.</sub>
 </p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+```
