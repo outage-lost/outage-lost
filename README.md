@@ -1,120 +1,123 @@
-```text
- ___       ________  ________  _________   
-|\  \     |\   __  \|\   ____\|\___   ___\ 
-\ \  \    \ \  \|\  \ \  \___|\|___ \  \_| 
- \ \  \    \ \  \\\  \ \_____  \   \ \  \  
-  \ \  \____\ \  \\\  \|____|\  \   \ \  \ 
-   \ \_______\ \_______\____\_\  \   \ \__\
-    \|_______|\|_______|\_________\   \|__|
-                       \|_________|                                                     
-```
-
-# OUTAGE LOST
-
-**Engineering Student · Independent Builder · Systems Enthusiast**
-
-I am an engineering student interested in understanding how things work and turning ideas into working systems.
-
-My interests span **software engineering, algorithms, autonomous learning, robotics, electronics, and system design**. I enjoy moving between abstraction and implementation — from understanding an algorithm to wiring a circuit, from designing an architecture to watching a physical system respond to it.
-
-For me, the most interesting part of engineering is not simply writing code or designing a system.
-
-It is **making an idea become real.**
-
----
-
-## FOCUS
+<div align="center">
 
 ```text
-SOFTWARE
-    Algorithms
-    Systems
-    Architecture
-    Automation
-
-INTELLIGENCE
-    Machine Learning
-    Autonomous Systems
-    Computational Problem Solving
-
-HARDWARE
-    Robotics
-    Electronics
-    Circuits
-    Embedded Systems
+ ██████╗  █████╗ ███╗   ██╗██████╗  █████╗ ██████╗ ██╗   ██╗
+██╔════╝ ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██║   ██║
+██║  ███╗███████║██╔██╗ ██║██████╔╝███████║██████╔╝██║   ██║
+██║   ██║██╔══██║██║╚██╗██║██╔══██╗██╔══██║██╔══██╗██║   ██║
+╚██████╔╝██║  ██║██║ ╚████║██████╔╝██║  ██║██║  ██║╚██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-I am particularly interested in projects where different disciplines meet.
+**ENGINEERING STUDENT · INDEPENDENT BUILDER · SYSTEMS**
 
-Software controlling hardware.
-Algorithms producing behavior.
-Circuits becoming systems.
-Ideas becoming prototypes.
+</div>
 
 ---
 
-## BUILDING
+## About
 
-### Ferka Labs
+I am an engineering student focused on understanding how things work and transforming ideas into functional systems.
 
-I am currently developing **Ferka Labs**, an independent initiative focused on building software, tools, and experimental products.
+My interests extend across **software engineering, algorithms, autonomous learning, robotics, electronics, and system design**.
 
-It serves as a space where ideas can move beyond experimentation and become actual systems.
+I am particularly interested in the space between disciplines — where software interacts with hardware, algorithms produce behavior, and abstract ideas become tangible systems.
 
-**Research → Design → Build → Test → Iterate**
+For me, the most valuable part of engineering is not simply writing code.
 
-Some of my work is open source. A considerable part of what I build is private, including prototypes, infrastructure, experiments, and products under development.
-
----
-
-## APPROACH
-
-I prefer learning through implementation.
-
-Instead of limiting myself to a particular stack or specialization, I tend to explore whatever technologies are necessary to understand and solve a problem.
-
-I enjoy taking systems apart, understanding their foundations, rebuilding them, and finding better ways to make them work.
-
-> **Understand the system. Build the system. Improve the system.**
+It is **seeing an idea work.**
 
 ---
 
-## CURRENTLY EXPLORING
+## Areas of Interest
+
+| Software            | Intelligent Systems   | Hardware         |
+| :------------------ | :-------------------- | :--------------- |
+| Algorithms          | Machine Learning      | Robotics         |
+| System Architecture | Autonomous Systems    | Electronics      |
+| Automation          | Computational Methods | Circuits         |
+| Infrastructure      | Problem Solving       | Embedded Systems |
+
+I do not consider these areas isolated. I enjoy understanding how they can work together to create complete systems.
+
+---
+
+## Ferka Labs
+
+**Ferka Labs** is an independent initiative I am currently building around software, tools, experiments, and products.
+
+It is where I develop ideas beyond prototypes and explore the complete process of bringing a system to life:
 
 ```text
-Algorithms & Data Structures
-Machine Learning
-Robotics
-Embedded Systems
-Electronics
-Distributed Systems
-Software Architecture
-Automation
-Infrastructure
+RESEARCH
+   ↓
+DESIGN
+   ↓
+IMPLEMENTATION
+   ↓
+TESTING
+   ↓
+DEPLOYMENT
+   ↓
+ITERATION
 ```
 
----
-
-## OPEN SOURCE
-
-Most of my public work can be found throughout this profile.
-
-Open source is an important part of how I experiment, document ideas, and learn from other developers. At the same time, this profile does not represent everything I build — many of my current projects remain private.
+A significant part of my work is developed privately, while other projects and experiments are released as open source.
 
 ---
 
-## PRINCIPLE
+## Engineering Approach
+
+I learn primarily by building.
+
+When I encounter something I do not understand, I prefer to investigate its foundations, experiment with it, implement a solution, and observe the result.
+
+This often means moving between different technologies and disciplines rather than remaining tied to a single stack.
 
 ```text
-        BUILD THINGS
-        UNDERSTAND THEM
-        MAKE THEM WORK
-        THEN MAKE THEM BETTER
+Understand
+    ↓
+Experiment
+    ↓
+Build
+    ↓
+Break
+    ↓
+Improve
 ```
+
+The process is as important to me as the final result.
 
 ---
 
-<p align="center">
-  <sub>Engineering is the process of turning curiosity into something that works.</sub>
-</p>
+## Open Source
+
+This profile contains a selection of my public work, experiments, and open-source projects.
+
+It does not represent everything I build. Many of my current projects remain private, particularly prototypes, infrastructure, and products under active development.
+
+I use open source both as a way to share what I build and as a way to learn from the work of others.
+
+---
+
+## Current Direction
+
+My current exploration is centered around:
+
+**Algorithms · Artificial Intelligence · Robotics · Electronics · Embedded Systems · Software Architecture · Automation · Infrastructure**
+
+I am continuously expanding this list as new problems lead me into new areas.
+
+---
+
+<div align="center">
+
+```text
+BUILD
+UNDERSTAND
+ITERATE
 ```
+
+<sub>Turning curiosity into systems that work.</sub>
+
+</div>
